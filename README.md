@@ -79,3 +79,99 @@ I specialize in creating scalable, responsive, and user-friendly applications us
 
 
 ---
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mian-abdullah-taimoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mian-abdullah-taimoor&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mian-abdullah-taimoor&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Featured Projects
+
+## School Management System
+
+A complete web-based management system developed using Core PHP and MySQL.
+
+Features:
+- User authentication
+- Student management
+- CRUD operations
+- Database management
+- Responsive interface
+
+
+## Student Management System
+
+A practical CRUD-based application for managing student records.
+
+Technologies:
+- Core PHP
+- MySQL
+- Bootstrap
+- JavaScript
+
+
+## Online Food Delivery System
+
+A complete food ordering platform with customer and admin modules.
+
+Technologies:
+- PHP
+- MySQL
+- Bootstrap
+- JavaScript
+
+
+## Collaborative Bulk Purchase System
+
+Final Year Project focused on collaborative purchasing and group buying.
+
+Technologies:
+- PHP
+- MySQL
+- Bootstrap
+- JavaScript
+
+
+---
+
+# Development Skills
+
+| Category | Technologies |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React |
+| Backend | PHP, Core PHP, Laravel, Node.js, Express.js |
+| Database | MySQL, MongoDB |
+| CMS | WordPress |
+| Tools | Git, GitHub, VS Code, Composer |
+
+
+---
+
+# Professional Goals
+
+- Build scalable and maintainable software solutions
+- Improve system architecture and backend development skills
+- Contribute to open-source projects
+- Create high-quality applications following industry standards
+
+
+---
+

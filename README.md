@@ -174,4 +174,64 @@ Technologies:
 
 
 ---
+---
+
+# GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mian-abdullah-taimoor&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
+
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mian-abdullah-taimoor&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mian-abdullah-taimoor">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+
+---
+
+# Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mian-abdullah-taimoor&label=Profile%20Views&color=blue&style=flat"/>
+
+</div>
+
+
+---
+
+<div align="center">
+
+## Thanks for visiting my profile
+
+Building solutions. Learning continuously. Improving every day.
+
+</div>
+
 

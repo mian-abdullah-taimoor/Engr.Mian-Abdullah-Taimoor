@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Engr.+Mian+Abdullah+Taimoor;Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+React+%7C+Node.js;Building+Modern+Web+Applications;5%2B+Years+of+Development+Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=900&lines=Hi+I'm+Engr.+Mian+Abdullah+Taimoor;Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+React+%7C+Node.js;Building+Modern+Web+Applications;5%2B+Years+of+Development+Experience" />
 
 </div>
 

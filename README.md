@@ -1,17 +1,18 @@
-#  Hi, I'm Engr. Mian Abdullah Taimoor
+# 👋 Hi, I'm Engr. Mian Abdullah Taimoor
 
-## 💻 Full Stack Web Developer
+### Full Stack Web Developer | 5+ Years of Experience
 
-I'm a passionate Full Stack Web Developer with **5+ years of experience** building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world solutions using clean, maintainable code and continuously improving my technical skills.
+I specialize in building modern, scalable, and user-friendly web applications using PHP, Laravel, JavaScript, React, Node.js, MySQL, and MongoDB. I enjoy solving real-world problems through clean, maintainable code and continuously improving my skills by learning modern technologies and best development practices.
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Full Stack Web Developer
-* 🌱 Always learning and exploring new technologies
-* 🔥 Passionate about clean code and modern web development
-* 🎯 Goal: Build high-quality software and contribute to impactful projects
+* 💼 Full Stack Web Developer with **5+ years of experience**
+* 🌐 Experienced in Frontend and Backend Development
+* ⚡ Passionate about building responsive and scalable web applications
+* 📚 Always learning new technologies and industry best practices
+* 🎯 Focused on writing clean, reusable, and maintainable code
 
 ---
 
@@ -40,42 +41,24 @@ I'm a passionate Full Stack Web Developer with **5+ years of experience** buildi
 * MySQL
 * MongoDB
 
-### Tools
+### CMS & Tools
 
+* WordPress
 * Git
 * GitHub
-* WordPress
 * Composer
 * VS Code
 * XAMPP
 
 ---
 
-## 📂 Featured Projects
+## 🎯 Current Focus
 
-* 🏫 School Management System
-* 🎓 Student Management System
-* 🍔 Online Food Delivery System
-* 🛒 Collaborative Bulk Purchase System
-* 📚 Library Management System
-
----
-
-## 🎯 What I'm Working On
-
-* Building professional full-stack applications
-* Improving software architecture and code quality
-* Learning advanced Laravel and modern JavaScript ecosystem
-* Creating portfolio-quality open-source projects
+* Building high-quality Full Stack Web Applications
+* Creating professional portfolio projects
+* Learning advanced software architecture
+* Contributing to open-source projects
 
 ---
 
-## 📫 Contact
-
-* GitHub: **@mian-abdullah-taimoor**
-
----
-
-### 💡 Motto
-
-> **"Code with passion. Learn continuously. Build solutions that make a difference."**
+> **"Code with Passion • Build with Purpose • Learn without Limits."**
